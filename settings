@@ -1,4 +1,4 @@
-// set theme to use Firefox Alpenglow colors
+// Use Firefox Alpenglow colors for theme
 settings.theme = `
 .sk_theme {
     font-family: Input Sans Condensed, Charcoal, sans-serif;
