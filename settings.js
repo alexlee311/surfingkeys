@@ -36,3 +36,5 @@ settings.theme = `
 #sk_status, #sk_find {
     font-size: 13pt;
 }`;
+
+Hints.style('border: solid 3px #281d4e; color:#ffffff; background: initial; background-color: #281d4e; font-family: Input Sans Condensed, Charcoal, sans-serif');
