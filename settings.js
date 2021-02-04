@@ -37,7 +37,7 @@ settings.theme = `
     font-size: 13pt;
 }
 #sk_keystroke {
-    backgrond: #281d4e;
+    backgrod: #281d4e;
 }
 .expandRichHints span.annotation {
   color: #ffffff;
@@ -66,7 +66,7 @@ div.sk_tab_hint {
     --theme-ace-bg-accent:#281d4e;
     --theme-ace-fg:#fcbb40;
     --theme-ace-fg-accent:#78709d;
-    --theme-ace-cursor:#fd6392;
+    --theme-ace-cursor:#fd6392bb;
     --theme-ace-select:#fd6392ab;
 }
 #sk_editor {
@@ -93,6 +93,10 @@ div.sk_tab_hint {
 }
 .ace_marker-layer .ace_selection {
     background: var(--theme-ace-select) !important;
+}
+.ace_marker-layer .ace_selected-word {
+    background: var(--theme-ace-select) !important;
+    border: 1px solid var(--theme-ace-select) !important;
 }
 `;
 
