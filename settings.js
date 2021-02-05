@@ -36,6 +36,15 @@ settings.theme = `
 #sk_status, #sk_find {
     font-size: 13pt;
 }
+#sk_omnibarSearchArea .prompt, #sk_omnibarSearchArea .resultPage {
+    color: #fcbb40;
+}
+.sk_theme .separator {
+    color: #fcbb40;
+}
+.sk_omnibar_middle #sk_omnibarSearchArea {
+    border-bottom: 1px solid #fcbb40;
+}
 #sk_keystroke {
     background: #281d4e;
 }
@@ -43,9 +52,6 @@ settings.theme = `
     color: #ffffff;
 }
 .sk_theme .feature_name {
-    color: #fd6392;
-}
-.sk_theme .separator {
     color: #fd6392;
 }
 div.sk_tab {
