@@ -95,8 +95,8 @@ div.sk_tab_hint {
     background: var(--theme-ace-select) !important;
 }
 .ace_marker-layer .ace_selected-word {
-    background: var(--theme-ace-select) !important;
-    border: 1px solid var(--theme-ace-select) !important;
+    background: none !important;
+    border: none !important;
 }
 `;
 
