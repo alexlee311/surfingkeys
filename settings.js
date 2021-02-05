@@ -101,3 +101,6 @@ div.sk_tab_hint {
 `;
 
 Hints.style('border: solid 3px #321c64; color:#ffffff; background: initial; background-color: #321c64; font-family: Input Sans Condensed, Charcoal, sans-serif');
+
+Visual.style('marks', 'background-color: #fcbb40;');
+Visual.style('cursor', 'background-color: #5128aa; z-index: 9999999999999');
