@@ -37,7 +37,7 @@ settings.theme = `
     font-size: 13pt;
 }
 #sk_keystroke {
-    backgrod: #281d4e;
+    backgroud: #281d4e;
 }
 .expandRichHints span.annotation {
   color: #ffffff;
