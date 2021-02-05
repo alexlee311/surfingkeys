@@ -40,13 +40,13 @@ settings.theme = `
     backgroud: #281d4e;
 }
 .expandRichHints span.annotation {
-  color: #ffffff;
+    color: #ffffff;
 }
 .sk_theme .feature_name {
-  color: #fd6392;
+    color: #fd6392;
 }
 .sk_theme .separator {
-  color: #fd6392;
+    color: #fd6392;
 }
 div.sk_tab {
     background: #321c64;
