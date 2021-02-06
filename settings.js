@@ -1,24 +1,24 @@
-// mappings
-map('gt', 'R');  // next tab
-unmap('R');
+//// mappings
+//map('gt', 'R');  // next tab
+//unmap('R');
 
-map('gT', 'E');  // previous tab
-unmap('E');
+//map('gT', 'E');  // previous tab
+//unmap('E');
 
-map('H', 'S');  // go back in history
-unmap('S');
+//map('H', 'S');  // go back in history
+//unmap('S');
 
-map('L', 'D');  // go forward in history
-unmap('D');
+//map('L', 'D');  // go forward in history
+//unmap('D');
 
-map('<Ctrl-u>', 'u');  // scroll half page up
-unmap('u');
+//map('<Ctrl-u>', 'u');  // scroll half page up
+//unmap('u');
 
-map('<Ctrl-d>', 'd');  // scroll half page down
-unmap('d');
+//map('<Ctrl-d>', 'd');  // scroll half page down
+//unmap('d');
 
-// more unmappings
-unmap('e');  // unamp default scroll half page up
+//// more unmappings
+//unmap('e');  // unamp default scroll half page up
 
 // use Firefox Alpenglow colors for theme
 settings.theme = `
